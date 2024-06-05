@@ -1,0 +1,39 @@
+  321  useradd Murali
+  322  useradd Mohan
+  323  passwd Mohan
+  324  ls
+  325  su - Mohan
+  326  visudo
+  327  su - Mohan
+  328  ls
+  329  ls
+  330  ls -l
+  331  chmod 666 Jenkins
+  332  ls -l
+  333  clear
+  334  chmod 667 Jenkins
+  335  ls -l
+  336  chmod 777 K8S
+  337  ls -l
+  338  chgrp Mohan Jenkins
+  339  ls -l
+  340  chgrp Mohan DevOps
+  341  ls -l
+  342  chgrp Murali Deployment
+  343  tree
+  344  clear
+  345  ls -l
+  346  chown Mohan Jenkins
+  347  ls -l
+  348  vi Jenkins
+  349  cat Jenkins
+  350  chown root:root Jenkins
+  351  ls -l
+  352  clear
+  353  mkdir Murali
+  354  ls -l
+  355  umask
+  356  chmod o+x Deployment
+  357  ls -l
+  358  chmod o-r Deployment
+  359  ls -l
