@@ -1,0 +1,86 @@
+362  find -type f
+  363  find -type d
+  364  find / -type d
+  365  find / -type f
+  366  find -type f -name Sample
+  367  tree
+  368  find -type f -name Jenkins
+  369  find / -type f -name Jenkins
+  370  find / -type d -name DirD
+  371  find  -type d -name DirD
+  372  clear
+  373  history
+  374  history 10
+  375  clear
+  376  ipconfig
+  377  claer
+  378  clear
+  379  ifconfig
+  380  hostname
+  381  id
+  382  free
+  383  df
+  384  du
+  385  df -h
+  386  du -h
+  387  Htop
+  388  htop
+  389  ps
+  390  ps aux
+  391  kill -l
+  392  curl
+  393  yum install curl -y
+  394  yum install httpd -y
+  395  cd /var/www/html
+  396  ls
+  397  vi index.html
+  398  wq
+  399  service httpd start
+  400  service httpd status
+  401  clear
+  402  curl www.google.com
+  403  clear
+  404  cd /home/ec2-user
+  405  curl 54.183.229.174:80
+  406  curl 54.183.229.174
+  407  ifconfig
+  408  curl 172.31.12.49
+  409  clear
+  410  curl 54.183.229.174
+  411  nslookup 54.183.229.174
+  412  nslookup google.com
+  413  clear
+  414  ssh-keygen
+  415  ls -a
+  416  cd .ssh
+  417  ls
+  418  cd /home/ec2-user
+  419  clear
+  420  ls
+  421  vi sample.taxt
+  422  ls
+  423  vi sample.txt
+  424  ls
+  425  vi sample1.txt
+  426  diff sample.txt sample1.txt
+  427  vi sample.txt
+  428  diff sample.txt sample1.txt
+  429  vi sample.txt
+  430  cat sample.txt
+  431  cut -c1-2 sample.txt
+  432  cut -c1-4 sample.txt
+  433  ls
+  434  touch A1 B1 C1 D1
+  435  tree
+  436  cat sample.txt
+  437  sort -f sample.txt
+  438  sort -r sample.txt
+  439  sort -n sample.txt
+  440  vi sample.txt
+  441  sort -n sample.txt
+  442  vi sample.txt
+  443  cat sample.txt
+  444  head sample.txt
+  445  head -3 sample.txt
+  446  tail sample.txt
+  447  tail -5 sample.txt
